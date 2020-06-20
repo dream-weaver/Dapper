@@ -1,0 +1,63 @@
+﻿@model Dapper.Entity.Contact
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Contacts">Contacts</a></li>
+        <li class="breadcrumb-item active" aria-current="page">@ViewData["Title"]</li>
+    </ol>
+</nav>
+<hr />
+<div>
+    <dl class="row">
+        @Html.HiddenFor(model => model.Id)
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd class="col-sm-3 text-left">
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd class="col-sm-3 text-left">
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-3 text-left">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Company)
+        </dt>
+        <dd class="col-sm-3 text-left">
+            @Html.DisplayFor(model => model.Company)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-3 text-left">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+    </dl>
+    <div>
+        <a asp-action="Edit" asp-controller="Contacts" asp-route-id="@Model.Id" title="Edit" class="btn btn-primary btn-sm rounded-0 text-left">Edit</a> |
+        <a asp-action="Index" asp-controller="Contacts" class="btn btn-info btn-sm rounded-0 text-right">Back to List</a>
+    </div>
+</div>
+

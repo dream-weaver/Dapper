@@ -1,0 +1,349 @@
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\appsettings.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.exe
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.deps.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.runtimeconfig.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.runtimeconfig.dev.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.Views.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.Views.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Data.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Entities.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Services.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Services.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Data.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Entities.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.csprojAssemblyReference.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorAssemblyInfo.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorAssemblyInfo.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.AssemblyInfoInputs.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.AssemblyInfo.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.TagHelpers.input.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.TagHelpers.output.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorCoreGenerate.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Index.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorTargetAssemblyInfo.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorTargetAssemblyInfo.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.Views.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.csproj.CopyComplete
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\staticwebassets\Dapper.Web.StaticWebAssets.Manifest.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\staticwebassets\Dapper.Web.StaticWebAssets.xml
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.genruntimeconfig.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Create.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Details.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Navbar.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Register.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Login.cshtml.g.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.csproj.CoreCompileInputs.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\angular.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\appsettings.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\package-lock.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\package.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\tsconfig.app.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\tsconfig.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.exe
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.deps.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.runtimeconfig.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.runtimeconfig.dev.json
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.pdb
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.Views.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Web.Views.pdb
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Data.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Entities.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Services.dll
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Services.pdb
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Data.pdb
+F:\SandBox\Dapper\Dapper.Web\bin\Debug\netcoreapp3.1\Dapper.Entities.pdb
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.csprojAssemblyReference.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.csproj.CoreCompileInputs.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorAssemblyInfo.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorAssemblyInfo.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.AssemblyInfoInputs.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.AssemblyInfo.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.TagHelpers.input.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.TagHelpers.output.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorCoreGenerate.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Login.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Accounts\Register.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Create.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Details.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Index.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Navbar.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorTargetAssemblyInfo.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.RazorTargetAssemblyInfo.cs
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.Views.pdb
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.csproj.CopyComplete
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\staticwebassets\Dapper.Web.StaticWebAssets.Manifest.cache
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\staticwebassets\Dapper.Web.StaticWebAssets.xml
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.dll
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.pdb
+F:\SandBox\Dapper\Dapper.Web\obj\Debug\netcoreapp3.1\Dapper.Web.genruntimeconfig.cache

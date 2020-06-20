@@ -1,0 +1,17 @@
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\bin\Debug\netcoreapp3.1\Dapper.Entities.deps.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\bin\Debug\netcoreapp3.1\Dapper.Entities.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\bin\Debug\netcoreapp3.1\Dapper.Entities.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.AssemblyInfoInputs.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.AssemblyInfo.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.csproj.CoreCompileInputs.cache
+F:\SandBox\Dapper\Dapper.Entity\bin\Debug\netcoreapp3.1\Dapper.Entities.deps.json
+F:\SandBox\Dapper\Dapper.Entity\bin\Debug\netcoreapp3.1\Dapper.Entities.dll
+F:\SandBox\Dapper\Dapper.Entity\bin\Debug\netcoreapp3.1\Dapper.Entities.pdb
+F:\SandBox\Dapper\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.csprojAssemblyReference.cache
+F:\SandBox\Dapper\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.csproj.CoreCompileInputs.cache
+F:\SandBox\Dapper\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.AssemblyInfoInputs.cache
+F:\SandBox\Dapper\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.AssemblyInfo.cs
+F:\SandBox\Dapper\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.dll
+F:\SandBox\Dapper\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entities.pdb

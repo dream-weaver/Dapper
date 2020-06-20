@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8fKL0XtSCpMF2RmrHX9gpJZdk3zEZxJBP2v0p7eWxsLlJ3SPUcGhuZqDsvXHaxmdm6uHW7E7xkG0B3G6ZDhDA==",
+  "success": true,
+  "projectFilePath": "F:\\SandBox\\Dapper\\Dapper.Entity\\Dapper.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

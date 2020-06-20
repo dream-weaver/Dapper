@@ -1,0 +1,28 @@
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Services.deps.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Services.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Services.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Data.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Entities.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Entities.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Data.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.csprojAssemblyReference.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.AssemblyInfoInputs.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.AssemblyInfo.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.csproj.CopyComplete
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.csproj.CoreCompileInputs.cache
+F:\SandBox\Dapper\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Services.deps.json
+F:\SandBox\Dapper\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Services.dll
+F:\SandBox\Dapper\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Services.pdb
+F:\SandBox\Dapper\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Data.dll
+F:\SandBox\Dapper\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Entities.dll
+F:\SandBox\Dapper\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Data.pdb
+F:\SandBox\Dapper\Dapper.Services\bin\Debug\netcoreapp3.1\Dapper.Entities.pdb
+F:\SandBox\Dapper\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.csprojAssemblyReference.cache
+F:\SandBox\Dapper\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.csproj.CoreCompileInputs.cache
+F:\SandBox\Dapper\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.AssemblyInfoInputs.cache
+F:\SandBox\Dapper\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.AssemblyInfo.cs
+F:\SandBox\Dapper\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.csproj.CopyComplete
+F:\SandBox\Dapper\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.dll
+F:\SandBox\Dapper\Dapper.Services\obj\Debug\netcoreapp3.1\Dapper.Services.pdb

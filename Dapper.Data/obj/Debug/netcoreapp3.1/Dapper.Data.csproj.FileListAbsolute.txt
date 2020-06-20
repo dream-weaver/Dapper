@@ -1,0 +1,22 @@
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.deps.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.AssemblyInfoInputs.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.AssemblyInfo.cs
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.runtimeconfig.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.runtimeconfig.dev.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.genruntimeconfig.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.csproj.CoreCompileInputs.cache
+F:\SandBox\Dapper\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.deps.json
+F:\SandBox\Dapper\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.runtimeconfig.json
+F:\SandBox\Dapper\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.runtimeconfig.dev.json
+F:\SandBox\Dapper\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.dll
+F:\SandBox\Dapper\Dapper.Data\bin\Debug\netcoreapp3.1\Dapper.Data.pdb
+F:\SandBox\Dapper\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.csproj.CoreCompileInputs.cache
+F:\SandBox\Dapper\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.AssemblyInfoInputs.cache
+F:\SandBox\Dapper\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.AssemblyInfo.cs
+F:\SandBox\Dapper\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.dll
+F:\SandBox\Dapper\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.pdb
+F:\SandBox\Dapper\Dapper.Data\obj\Debug\netcoreapp3.1\Dapper.Data.genruntimeconfig.cache

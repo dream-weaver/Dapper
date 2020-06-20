@@ -1,0 +1,14 @@
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Database\bin\Debug\Database.dacpac
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Database\bin\Debug\Database.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Database\bin\Debug\Database.pdb
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Database\obj\Debug\Database.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Database\obj\Debug\Database.pdb
+F:\SandBox\Dapper\Database\bin\Debug\Database.dacpac
+F:\SandBox\Dapper\Database\bin\Debug\Database.dll
+F:\SandBox\Dapper\Database\bin\Debug\Database.pdb
+F:\SandBox\Dapper\Database\obj\Debug\Model.xml
+F:\SandBox\Dapper\Database\obj\Debug\refactor.xml
+F:\SandBox\Dapper\Database\obj\Debug\postdeploy.sql
+F:\SandBox\Dapper\Database\obj\Debug\predeploy.sql
+F:\SandBox\Dapper\Database\obj\Debug\Database.dll
+F:\SandBox\Dapper\Database\obj\Debug\Database.pdb

@@ -1,0 +1,4 @@
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\bin\Debug\netcoreapp3.1\Dapper.Entity.deps.json
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\bin\Debug\netcoreapp3.1\Dapper.Entity.dll
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entity.AssemblyInfoInputs.cache
+G:\TutorialExtended\PluralSight\Dapper Getting Started\getting-started-dapper\02\demos\demos\after\DapperDemo\Dapper.Entity\obj\Debug\netcoreapp3.1\Dapper.Entity.AssemblyInfo.cs
